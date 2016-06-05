@@ -1,4 +1,4 @@
-jsonbroker.c_sharp.windows_forms
-================================
+windows.lib.JsonBrokerBridge
+============================
 
-Extension to jsonbroker.c_sharp for Windows applications
+Extension to dot-net.lib.HttpLibrary for Windows applications
